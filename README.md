@@ -122,7 +122,7 @@ The dashboard shows:
 
 **Rachamreddy Manivardhanreddy**
 
-Final Year Project  
+Second Year Project  
 Student Feedback Analysis System
 
 ---
